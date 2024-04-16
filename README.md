@@ -6,7 +6,6 @@
 <h3 align="center">Web Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shishirchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="shishirchhetri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shishirchhetri&theme=onedark" alt="shishirchhetri" /></a> </p>
 
 - 🌱 I’m currently learning **Nextjs **
 - 💬 Ask me about **Reactjs, Nextjs, Nodejs**
@@ -33,22 +32,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirchhetri&layout=compact&theme=" alt=shishirchhetri />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shishirchhetri&show_icons=true&locale=en&theme=dark" alt="shishirchhetri" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shishirchhetri&theme=" alt="shishirchhetri" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/shishirchhetri">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shishirchhetri&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shishirchhetri&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shishirchhetri&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shishirchhetri&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishirchhetri&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shishirchhetri&theme=default"/>
