@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shishirchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="shishirchhetri" /> </p>
 
 
- 🌱 I’m currently learning **Nextjs, Typescript**  <br/>
+ 🌱 I’m currently into **React, Nextjs, Typescript, Nodejs**  <br/>
  💬 Ask me about **Reactjs, Nextjs, Nodejs**  <br/>
 📫 How to reach me **shishirchhetri45@gmail.com**  <br/>
  
