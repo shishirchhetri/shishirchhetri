@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <h1 align="center">Hi 👋, I'm Shishir Chhetri</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web Developer | Software Engineer </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shishirchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="shishirchhetri" /> </p>
 
 
